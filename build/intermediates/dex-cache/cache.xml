@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_162e31a4ef6ddc4baf123e6f55254f9b9c40468d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_52708405a8ed55333a4b0c3d6ba57e6491a8581c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_edcbb1de7ed84275f32a731e48983dbc1603f017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_76810b5247b17f90e12880a01bcee7b18afaceef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_bcb26c2cb3dab23d2944e2067f0f657f7867b219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_03484f7f78e54e87cdf0ba01e1c892551552a026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_77b7e60249729dbf2d24c18c1826b910a9b75992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_15ee5bddd99eaf4e82eb4956d75e878c32446125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_94e43af66a2699f24729ef52022ff198854e7c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidApp\LogRegApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AndroidApp\LogRegApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_9840ae9c3a8cf03e6a8b8cd394fcfff20d10d307.jar" />
+    </item>
+
+</items>
